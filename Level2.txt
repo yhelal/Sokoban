@@ -1,0 +1,19 @@
+     #####
+######...#
+#........#
+#..####..#
+#........#
+#...######
+#####
+Boxes:
+4 2
+4 6
+Marks:
+5 1
+3 7
+Player:
+2 2
+Solution:
+DDRDLUUURRRRRDDLLLLDLUULURRRRRURD
+
+
