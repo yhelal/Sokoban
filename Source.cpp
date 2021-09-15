@@ -1,6 +1,4 @@
-/* Team YOY
-Youssef Dardir
-Omar El Dakroury
+/* 
 Youssef Helal
 Sokoban*/
 #include <iostream>
